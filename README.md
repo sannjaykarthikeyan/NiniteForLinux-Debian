@@ -1,5 +1,5 @@
 # Linux_Deb-Package-Bundle-Auto-Installer
-**--IMPORTANT: READ INSTRUCTIONS BEFORE USING PROGRAM. DEMO VIDEO INCLUDED IN REPO.--**
+**IMPORTANT: READ INSTRUCTIONS BEFORE USING PROGRAM. DEMO VIDEO INCLUDED IN REPO.**
 
 Python script that generates a bash shell script file to automatically install a user-selected set of programs on Debian Linux Distros. Similar to the Ninite program installer for Windows operating systems, but in the format of a simple bash script.
 
