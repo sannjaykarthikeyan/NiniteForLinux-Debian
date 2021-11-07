@@ -1,11 +1,11 @@
 # Linux Debian Package Auto Installer
 **IMPORTANT: READ INSTRUCTIONS BEFORE USING PROGRAM. DEMO VIDEO INCLUDED IN REPO.**
 
-Python script that generates a bash shell script file to automatically install a user-selected set of programs on Debian Linux Distros. Similar to the Ninite program installer for Windows operating systems, but in the format of a simple bash script.
+Python script that generates a bash shell script file to automatically install a user-selected set of programs on Debian Linux Distros. Similar to the Ninite program installer for Windows operating systems, but in the format of a simple bash script. 
 
 **Compatibility:** Ubuntu, MX Linux, Kali Linux, Deepin OS and other Debian-based distros.
     - Tested on Ubuntu 20.04.03 LTS
-    
+    - Uses snap packages to simplify installation.
 
 **Instructions:** (Also available as a video in this repository or at **insert link**):
     
