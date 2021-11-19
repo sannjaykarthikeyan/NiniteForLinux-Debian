@@ -7,7 +7,7 @@ Python script that generates a bash shell script file to automatically install a
     - Tested on Ubuntu 20.04.03 LTS
     - Uses snap packages to simplify installation.
 
-**Instructions:** (Also available as a video in this repository or at **insert link**):
+**Instructions:** (Also available as a video in this repository):
     
 1. Clone this repository and ensure that 'main.py' and 'main.sh' are downloaded. Ensure that 'main.sh'
 and 'main.py' are in the same folder. Additionally, ensure that your computer has an Internet connection and
