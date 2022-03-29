@@ -1,6 +1,8 @@
 # Linux Debian Package Auto Installer
 **IMPORTANT: READ INSTRUCTIONS BEFORE USING PROGRAM. DEMO VIDEO INCLUDED IN REPO.**
 
+Demo Video: https://youtu.be/Bqkv0SUi5TE
+
 Python script that generates a bash shell script file to automatically install a user-selected set of programs on Debian Linux Distros. Similar to the Ninite program installer for Windows operating systems, but in the format of a simple bash script. 
 
 **Compatibility:** Ubuntu, MX Linux, Kali Linux, Deepin OS and other Debian-based distros.
