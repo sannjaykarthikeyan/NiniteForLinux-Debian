@@ -1,5 +1,4 @@
 # Linux Debian Package Auto Installer
-**IMPORTANT: READ INSTRUCTIONS BEFORE USING PROGRAM. DEMO VIDEO INCLUDED IN REPO.**
 
 Demo Video: https://youtu.be/Bqkv0SUi5TE
 
